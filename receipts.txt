@@ -1,0 +1,2089 @@
+Cart 1:
+----------------------------------------
+[Invalid Product]        $  0.00
+(Barcode: 000011001001001100001000110100001100011000100)
+Radishes                 $ 17.98
+[Invalid Product]        $  0.00
+(Barcode: 101001000100001100001001100001010010011000100)
+Chocolate                $  7.52
+Mineral water            $  9.30
+Bread                    $  2.82
+Mixed vegetables         $  9.11
+Chives                   $ 20.62
+Sugar                    $  4.91
+Glass's cleaner          $ 15.99
+Chili                    $  3.39
+French fries             $ 19.82
+Cheese                   $  4.31
+Paprika                  $ 13.82
+Cantaloupe               $  8.99
+Linguini                 $ 15.21
+Pasta                    $  9.20
+Oregano                  $  1.35
+[Invalid Product]        $  0.00
+(Barcode: 100000110110010000100011000011000100001001001)
+[Invalid Product]        $  0.00
+(Barcode: 000010110110000001001001001011000100101001000)
+----------------------------------------
+Total:                   $164.34
+
+Cart 2:
+----------------------------------------
+Paprika                  $ 13.82
+Zucchini                 $ 13.20
+Cinnamon                 $  3.28
+Paper plates             $ 13.48
+Antacids                 $ 10.88
+[Invalid Product]        $  0.00
+(Barcode: 001001001100010010000011001110010000011000100)
+----------------------------------------
+Total:                   $ 54.66
+
+Cart 3:
+----------------------------------------
+Yeast                    $ 16.48
+Apricots                 $  7.51
+Paprika                  $ 13.82
+Pineapple                $ 15.00
+Bouillon cubes           $  5.46
+Halibut                  $  3.20
+Napkins                  $ 17.70
+Popcorn                  $ 19.08
+[Invalid Product]        $  0.00
+(Barcode: 000011001001001100001000110100001100011000100)
+Cucumbers                $ 11.72
+Cream                    $  4.74
+Radishes                 $ 17.98
+Shreddies                $ 20.78
+Paper plates             $ 13.48
+[Invalid Product]        $  0.00
+(Barcode: 001010010100010010000010110011000100001000110)
+[Invalid Product]        $  0.00
+(Barcode: 001011000001000011110000001011000100101000010)
+Bacon                    $  1.68
+[Invalid Product]        $  0.00
+(Barcode: 100001100100001001000010011000011001011000100)
+Chick peas               $ 15.73
+----------------------------------------
+Total:                   $184.36
+
+Cart 4:
+----------------------------------------
+Kiwis                    $ 11.97
+Sausage                  $  4.32
+English muffins          $  3.88
+----------------------------------------
+Total:                   $ 20.17
+
+Cart 5:
+----------------------------------------
+Pumpernickel             $ 11.50
+Sponges                  $  5.71
+Cranberries              $ 15.17
+Burritos                 $  6.07
+Carrots                  $  3.47
+Coffee                   $ 18.98
+[Invalid Product]        $  0.00
+(Barcode: 100001100100010010000010110011000100001000110)
+Chocolate                $  7.52
+Tilapia                  $  2.43
+[Invalid Product]        $  0.00
+(Barcode: 100001001001000011001000011011000100001000110)
+[Invalid Product]        $  0.00
+(Barcode: 001001001100001001110010000011000100001000011)
+Berries                  $ 11.89
+Mozzarella sticks        $  8.26
+----------------------------------------
+Total:                   $ 91.00
+
+Cart 6:
+----------------------------------------
+Chard                    $ 13.79
+Spaghetti                $ 17.58
+Mushrooms                $  5.01
+Candles                  $ 11.87
+Sponges                  $  5.71
+Vacuum bags              $ 20.37
+Cereal                   $  4.55
+Bottle liners            $ 19.44
+Taquitos                 $ 14.26
+Mousse                   $ 11.02
+Sourdough                $ 11.34
+Plastic cups             $ 18.20
+Antacids                 $ 10.88
+Green peppers            $ 10.10
+----------------------------------------
+Total:                   $174.12
+
+Cart 7:
+----------------------------------------
+Lettuce                  $  7.63
+Avocados                 $  9.38
+Bacon                    $  1.68
+French fries             $ 19.82
+----------------------------------------
+Total:                   $ 38.51
+
+Cart 8:
+----------------------------------------
+Allergy medication       $ 20.06
+Treats                   $ 18.64
+Marmalade                $  9.61
+[Invalid Product]        $  0.00
+(Barcode: 001010010100010010100000110100000011011000100)
+Diapers                  $ 20.37
+Sugar                    $  4.91
+Fruit                    $  6.24
+Apple sauce              $ 16.84
+[Invalid Product]        $  0.00
+(Barcode: 101001000100001100001001100001010010011000100)
+Turkey                   $ 13.95
+Sport drink              $ 14.26
+[Invalid Product]        $  0.00
+(Barcode: 001010010001001100000010110100001001011000100)
+Peaches                  $ 13.90
+Hickory sticks           $  1.12
+Mangoes                  $  9.06
+[Invalid Product]        $  0.00
+(Barcode: 100001001001000011001000011011000100001000110)
+Puffed wheat             $ 20.32
+Popsicles                $  3.77
+Cranberries              $ 15.17
+Bottle liners            $ 19.44
+Dried fruit              $  2.81
+Popcorn                  $ 19.08
+[Invalid Product]        $  0.00
+(Barcode: 100010010001001100001000011011000100101001000)
+Cauliflower              $ 14.74
+----------------------------------------
+Total:                   $244.29
+
+Cart 9:
+----------------------------------------
+Cranberries              $ 15.17
+Sorbet                   $  8.66
+[Invalid Product]        $  0.00
+(Barcode: 100011000000001101000001101011000100000010011)
+Potatoes                 $ 17.48
+Asparagus                $ 20.23
+Medicine                 $  9.56
+Chard                    $ 13.79
+Dental floss             $ 11.64
+Mixed vegetables         $  9.11
+Pectin                   $  1.56
+Grapes                   $ 11.35
+[Invalid Product]        $  0.00
+(Barcode: 100001100100001001000010011000011001011000100)
+Garlic                   $ 14.17
+[Invalid Product]        $  0.00
+(Barcode: 001000011001001100001010010011000100001001001)
+----------------------------------------
+Total:                   $132.72
+
+Cart 10:
+----------------------------------------
+Conditioner              $ 15.26
+[Invalid Product]        $  0.00
+(Barcode: 100001100100001001001000011001011000011000100)
+Marmalade                $  9.61
+Sorbet                   $  8.66
+----------------------------------------
+Total:                   $ 33.53
+
+Cart 11:
+----------------------------------------
+Bottle liners            $ 19.44
+Mayonnaise               $  8.25
+[Invalid Product]        $  0.00
+(Barcode: 101001000100001001000010110011000100001011000)
+Bisquick                 $  6.33
+Ravioli                  $  1.31
+----------------------------------------
+Total:                   $ 35.33
+
+Cart 12:
+----------------------------------------
+Parsnips                 $ 12.46
+Raisin bran              $  9.15
+Basil                    $ 14.90
+Celery                   $  2.74
+Decorations              $  8.76
+Diapers                  $ 20.37
+Cabbage                  $ 12.36
+[Invalid Product]        $  0.00
+(Barcode: 000011001001001100001000110100001100011000100)
+Paper plates             $ 13.48
+Waffles                  $  3.53
+Spinach                  $ 19.17
+Yellow peppers           $  6.73
+Oatmeal                  $  6.55
+Deodorant                $ 18.58
+Cleaner                  $  4.65
+Shampoo                  $  7.35
+Vanilla extract          $ 11.05
+Napkins                  $ 17.70
+Paper plates             $ 13.48
+----------------------------------------
+Total:                   $203.01
+
+Cart 13:
+----------------------------------------
+Relish                   $ 19.32
+Croissants               $ 20.62
+Teething ring            $ 18.72
+Paper plates             $ 13.48
+JellO                    $ 20.58
+[Invalid Product]        $  0.00
+(Barcode: 001001001100010010000011001110010000011000100)
+Mints                    $ 14.32
+Bacon                    $  1.68
+Sardines                 $ 19.65
+Crackers                 $ 17.89
+[Invalid Product]        $  0.00
+(Barcode: 001010010100010010100000110100000011011000100)
+Tomatoes                 $  6.36
+Nacho chips              $  8.31
+Muffin Mix               $  2.62
+Maple syrup              $ 13.75
+Celery                   $  2.74
+Sprinkles                $  4.31
+Tilapia                  $  2.43
+[Invalid Product]        $  0.00
+(Barcode: 101001000001000011110000001001001001011000100)
+[Invalid Product]        $  0.00
+(Barcode: 100001100100001001001000110100001100011000100)
+Shrimp                   $ 17.92
+----------------------------------------
+Total:                   $204.70
+
+Cart 14:
+----------------------------------------
+Celery                   $  2.74
+[Invalid Product]        $  0.00
+(Barcode: 100011000000001101000001101011000100001010010)
+Fruit                    $  6.24
+Bottle liners            $ 19.44
+Broccoli                 $ 14.42
+Apple sauce              $ 16.84
+Mustard                  $  7.67
+Vacuum bags              $ 20.37
+----------------------------------------
+Total:                   $ 87.72
+
+Cart 15:
+----------------------------------------
+Beets                    $ 18.30
+Cinnamon                 $  3.28
+Pears                    $  5.71
+Cucumbers                $ 11.72
+Papaya                   $ 20.29
+Bagels                   $  9.16
+Crackers                 $ 17.89
+Croissants               $ 20.62
+Pepperoni                $ 19.74
+Rotini                   $ 12.31
+Deodorant                $ 18.58
+[Invalid Product]        $  0.00
+(Barcode: 111000000100001001010010001011000100001010010)
+Radishes                 $ 17.98
+----------------------------------------
+Total:                   $175.58
+
+Cart 16:
+----------------------------------------
+Popcorn                  $ 19.08
+[Invalid Product]        $  0.00
+(Barcode: 101001000100010010001000011000011001011000100)
+[Invalid Product]        $  0.00
+(Barcode: 100011000000001101000001101011000100001000110)
+Garlic                   $ 14.17
+Asparagus                $ 20.23
+Breath mints             $ 15.99
+Olives                   $ 18.46
+Sword fish               $ 11.78
+[Invalid Product]        $  0.00
+(Barcode: 100001100100010010000010110011000100000011001)
+Facial tissue            $ 19.80
+[Invalid Product]        $  0.00
+(Barcode: 001010010100010010100000110100000011011000100)
+Margarine                $ 14.13
+Scrubbers                $  1.89
+Mints                    $ 14.32
+[Invalid Product]        $  0.00
+(Barcode: 101001000100001100100011000111000000011000100)
+Squash                   $ 10.39
+Yellow peppers           $  6.73
+Cabbage                  $ 12.36
+Medicine                 $  9.56
+Crackers                 $ 17.89
+----------------------------------------
+Total:                   $206.78
+
+Cart 17:
+----------------------------------------
+[Invalid Product]        $  0.00
+(Barcode: 
+100011000000001101000001101011000100001000110)
+Cream                    $  4.74
+Yellow peppers           $  6.73
+Muffin Mix               $  2.62
+Jelly                    $  1.67
+Garbage bags             $  7.03
+Lobster                  $ 16.69
+Fruit                    $  6.24
+Mixed vegetables         $  9.11
+[Invalid Product]        $  0.00
+(Barcode: 001001100101001000100011000011000100101001000)
+Butter                   $  2.64
+[Invalid Product]        $  0.00
+(Barcode: 101001000100001001000010110011000100001011000)
+Carrots                  $  3.47
+Detergent                $  7.74
+Cherries                 $ 13.34
+Molasses                 $ 15.01
+----------------------------------------
+Total:                   $ 97.03
+
+Cart 18:
+----------------------------------------
+[Invalid Product]        $  0.00
+(Barcode: 
+100011000000001101000001101011000100001000110)
+Shreddies                $ 20.78
+[Invalid Product]        $  0.00
+(Barcode: 001010010100010010000010110011000100001000110)
+[Invalid Product]        $  0.00
+(Barcode: 001010010100010010100000110100000011011000100)
+[Invalid Product]        $  0.00
+(Barcode: 100011000000001101000001101011000100001010010)
+[Invalid Product]        $  0.00
+(Barcode: 001001001100010010000011001110010000011000100)
+Zucchini                 $ 13.20
+Hickory sticks           $  1.12
+Tartar Sauce             $ 19.88
+Pretzels                 $  1.17
+[Invalid Product]        $  0.00
+(Barcode: 000010110011000001011000100000011001001001100)
+Vacuum bags              $ 20.37
+Dental floss             $ 11.64
+Nectarines               $  1.76
+Garlic                   $ 14.17
+Sprinkles                $  4.31
+Berries                  $ 11.89
+[Invalid Product]        $  0.00
+(Barcode: 001001001100011000100001001000010011011000100)
+[Invalid Product]        $  0.00
+(Barcode: 001001001001000011110000001100011000011000100)
+[Invalid Product]        $  0.00
+(Barcode: 100001001001001100100000110011000100001011000)
+[Invalid Product]        $  0.00
+(Barcode: 100010010011000001100011000000010011011000100)
+Molasses                 $ 15.01
+Cottage cheese           $ 15.82
+----------------------------------------
+Total:                   $151.12
+
+Cart 19:
+----------------------------------------
+Mixers                   $ 15.77
+[Invalid Product]        $  0.00
+(Barcode: 001011000001000011100011000100001001011000100)
+Fruit                    $  6.24
+[Invalid Product]        $  0.00
+(Barcode: 001010010001001100000010110100001001011000100)
+Asparagus                $ 20.23
+Liver                    $ 18.61
+Limes                    $  5.58
+[Invalid Product]        $  0.00
+(Barcode: 100010010001001100001000011011000100101001000)
+----------------------------------------
+Total:                   $ 66.43
+
+Cart 20:
+----------------------------------------
+Molasses                 $ 15.01
+Vanilla extract          $ 11.05
+Croissants               $ 20.62
+Raisin bran              $  9.15
+Chives                   $ 20.62
+Sport drink              $ 14.26
+[Invalid Product]        $  0.00
+(Barcode: 001001001100010010000011001110010000011000100)
+Facial tissue            $ 19.80
+[Invalid Product]        $  0.00
+(Barcode: 001000110100010010110010000011000100001000110)
+----------------------------------------
+Total:                   $110.51
+
+Cart 21:
+----------------------------------------
+Shampoo                  $  7.35
+Pretzels                 $  1.17
+Oysters                  $ 14.42
+Shreddies                $ 20.78
+[Invalid Product]        $  0.00
+(Barcode: 001001100101001000100011000011000100101001000)
+----------------------------------------
+Total:                   $ 43.72
+
+Cart 22:
+----------------------------------------
+JellO                    $ 20.58
+Doughnuts                $  2.10
+Perogies                 $  1.51
+Salsa                    $  9.80
+[Invalid Product]        $  0.00
+(Barcode: 101001000100001001100000011100011000011000100)
+Rotini                   $ 12.31
+Tilapia                  $  2.43
+Mashed potatoes          $ 13.35
+Apple sauce              $ 16.84
+[Invalid Product]        $  0.00
+(Barcode: 001001001001001001000000111011000100001000110)
+Lemons                   $ 11.90
+Icing                    $ 10.28
+Sorbet                   $  8.66
+----------------------------------------
+Total:                   $109.76
+
+Cart 23:
+----------------------------------------
+Whole grain              $ 19.78
+Apricots                 $  7.51
+Mints                    $ 14.32
+Nacho chips              $  8.31
+Chips                    $ 13.34
+Molasses                 $ 15.01
+Glass's cleaner          $ 15.99
+Parsnips                 $ 12.46
+----------------------------------------
+Total:                   $106.72
+
+Cart 24:
+----------------------------------------
+Sugar                    $  4.91
+Yellow peppers           $  6.73
+[Invalid Product]        $  0.00
+(Barcode: 101001000100010010001000011000011001011000100)
+Pancake mix              $ 13.60
+Cabbage                  $ 12.36
+[Invalid Product]        $  0.00
+(Barcode: 100001100100010010000010110011000100001000110)
+Avocados                 $  9.38
+Salami                   $  2.71
+Vacuum bags              $ 20.37
+Spinach                  $ 19.17
+Shreddies                $ 20.78
+Grapes                   $ 11.35
+Protein bars             $ 11.18
+[Invalid Product]        $  0.00
+(Barcode: 100000110001001100101001000100011000011000100)
+Tortillas                $  3.99
+Cucumbers                $ 11.72
+Mozzarella sticks        $  8.26
+[Invalid Product]        $  0.00
+(Barcode: 000010110011000001011000100000011001001001100)
+Hickory sticks           $  1.12
+[Invalid Product]        $  0.00
+(Barcode: 100001100100010010000010110011000100000011001)
+[Invalid Product]        $  0.00
+(Barcode: 001001001100011000100011000001011000011000100)
+Squash                   $ 10.39
+Facial tissue            $ 19.80
+Bleach                   $ 17.85
+----------------------------------------
+Total:                   $205.67
+
+Cart 25:
+----------------------------------------
+Margarine                $ 14.13
+Beets                    $ 18.30
+Berries                  $ 11.89
+Cabbage                  $ 12.36
+Molasses                 $ 15.01
+Salami                   $  2.71
+Cream                    $  4.74
+Chips                    $ 13.34
+Maple syrup              $ 13.75
+Sugar                    $  4.91
+Sardines                 $ 19.65
+[Invalid Product]        $  0.00
+(Barcode: 001001001001000011110000001100011000011000100)
+Garlic                   $ 14.17
+Spaghetti                $ 17.58
+Tilapia                  $  2.43
+[Invalid Product]        $  0.00
+(Barcode: 100000110001001100101001000100011000011000100)
+Pumpernickel             $ 11.50
+Vanilla extract          $ 11.05
+----------------------------------------
+Total:                   $187.52
+
+Cart 26:
+----------------------------------------
+Popsicles                $  3.77
+Ravioli                  $  1.31
+Mashed potatoes          $ 13.35
+[Invalid Product]        $  0.00
+(Barcode: 001001001100001001100000110011000100001000110)
+Pepperoni                $ 19.74
+[Invalid Product]        $  0.00
+(Barcode: 001011000001000011100011000100001001011000100)
+Bacon                    $  1.68
+Raisin bran              $  9.15
+[Invalid Product]        $  0.00
+(Barcode: 101000010100001001101001000011000100101001000)
+Sugar                    $  4.91
+Candles                  $ 11.87
+Peanut butter            $ 10.97
+Flounder                 $ 16.03
+Whipping cream           $ 13.76
+[Invalid Product]        $  0.00
+(Barcode: 100000110110010000100011000011000100001001001)
+[Invalid Product]        $  0.00
+(Barcode: 100010010001001100001000011011000100101001000)
+Cherries                 $ 13.34
+Medicine                 $  9.56
+Beans                    $  5.54
+Diapers                  $ 20.37
+Bagels                   $  9.16
+Granola bars             $  2.88
+----------------------------------------
+Total:                   $167.39
+
+Cart 27:
+----------------------------------------
+[Invalid Product]        $  0.00
+(Barcode: 
+101000010100001001101001000011000100101001000)
+Pumpernickel             $ 11.50
+[Invalid Product]        $  0.00
+(Barcode: 100001001001000011001000011011000100001000110)
+Mushrooms                $  5.01
+[Invalid Product]        $  0.00
+(Barcode: 001010010100010010100000110100000011011000100)
+Garlic                   $ 14.17
+Band-aids                $  4.59
+Sprouts                  $  5.54
+Bleach                   $ 17.85
+Perogies                 $  1.51
+Fruit                    $  6.24
+Steak                    $  6.92
+Honey                    $  5.29
+Carrots                  $  3.47
+[Invalid Product]        $  0.00
+(Barcode: 111000000100001001010010001011000100001010010)
+Chocolate                $  7.52
+----------------------------------------
+Total:                   $ 89.61
+
+Cart 28:
+----------------------------------------
+Drink crystals           $ 13.34
+Allergy medication       $ 20.06
+Candy                    $  2.35
+Yogurt                   $  7.99
+Lemons                   $ 11.90
+[Invalid Product]        $  0.00
+(Barcode: 001001001100011000100011000001011000011000100)
+Whipping cream           $ 13.76
+Gravy                    $ 19.94
+Perogies                 $  1.51
+Toilet paper             $ 11.10
+Sport drink              $ 14.26
+Flounder                 $ 16.03
+Graham crumbles          $  8.15
+Steak                    $  6.92
+Cottage cheese           $ 15.82
+Oatmeal                  $  6.55
+Cilantro                 $  5.73
+----------------------------------------
+Total:                   $175.41
+
+Cart 29:
+----------------------------------------
+Sugar                    $  4.91
+Cereal                   $  4.55
+Pepperoni                $ 19.74
+Linguini                 $ 15.21
+Mousse                   $ 11.02
+Vacuum bags              $ 20.37
+Oranges                  $ 19.30
+Pretzels                 $  1.17
+Tilapia                  $  2.43
+----------------------------------------
+Total:                   $ 98.70
+
+Cart 30:
+----------------------------------------
+Butter                   $  2.64
+Green peppers            $ 10.10
+Mangoes                  $  9.06
+Cheese                   $  4.31
+Pumpernickel             $ 11.50
+Napkins                  $ 17.70
+Macaroni                 $ 18.83
+Chives                   $ 20.62
+Zucchini                 $ 13.20
+Flour                    $  7.57
+Strawberries             $ 15.26
+Shreddies                $ 20.78
+Band-aids                $  4.59
+Relish                   $ 19.32
+Cheezies                 $ 19.24
+Sorbet                   $  8.66
+Roast beef               $ 20.67
+French fries             $ 19.82
+Toilet paper             $ 11.10
+----------------------------------------
+Total:                   $254.97
+
+Cart 31:
+----------------------------------------
+Linguini                 $ 15.21
+Juice                    $ 20.89
+Mayonnaise               $  8.25
+Apricots                 $  7.51
+Pickles                  $ 10.63
+Bisquick                 $  6.33
+[Invalid Product]        $  0.00
+(Barcode: 001010010100010010000010110011000100001000110)
+Lemons                   $ 11.90
+[Invalid Product]        $  0.00
+(Barcode: 100000110001001100101001000100011000011000100)
+Doughnuts                $  2.10
+[Invalid Product]        $  0.00
+(Barcode: 100001100100001001001000011001011000011000100)
+Pancake mix              $ 13.60
+----------------------------------------
+Total:                   $ 96.42
+
+Cart 32:
+----------------------------------------
+[Invalid Product]        $  0.00
+(Barcode: 
+100001001001000011001000011011000100001000110)
+Ketchup                  $  8.58
+Shampoo                  $  7.35
+Mineral water            $  9.30
+Parsley                  $ 13.03
+Formula                  $ 18.52
+[Invalid Product]        $  0.00
+(Barcode: 100001100100001001001001100100000110011000100)
+Hickory sticks           $  1.12
+Graham crumbles          $  8.15
+----------------------------------------
+Total:                   $ 66.05
+
+Cart 33:
+----------------------------------------
+[Invalid Product]        $  0.00
+(Barcode: 
+100000110110010000100011000011000100001001001)
+Sponges                  $  5.71
+Apricots                 $  7.51
+Cilantro                 $  5.73
+Cream                    $  4.74
+Cabbage                  $ 12.36
+----------------------------------------
+Total:                   $ 36.05
+
+Cart 34:
+----------------------------------------
+Kumquats                 $  6.72
+Baguette                 $ 14.64
+Papaya                   $ 20.29
+Oatmeal                  $  6.55
+[Invalid Product]        $  0.00
+(Barcode: 100001100100010010000010110011000100000011001)
+Tartar Sauce             $ 19.88
+Glass's cleaner          $ 15.99
+Spaghetti                $ 17.58
+[Invalid Product]        $  0.00
+(Barcode: 001010010100010010000010110011000100001000110)
+Taquitos                 $ 14.26
+[Invalid Product]        $  0.00
+(Barcode: 001001001100011000100001001000010011011000100)
+Salad dressing           $  3.52
+Hickory sticks           $  1.12
+[Invalid Product]        $  0.00
+(Barcode: 100000110001001100101001000100011000011000100)
+Shampoo                  $  7.35
+Mousse                   $ 11.02
+Scrubbers                $  1.89
+Garlic                   $ 14.17
+Diapers                  $ 20.37
+Yeast                    $ 16.48
+Bouillon cubes           $  5.46
+Mussels                  $ 15.41
+Ketchup                  $  8.58
+----------------------------------------
+Total:                   $221.28
+
+Cart 35:
+----------------------------------------
+Crackers                 $ 17.89
+Dried fruit              $  2.81
+Apple sauce              $ 16.84
+Rutabagas                $ 13.36
+Candy                    $  2.35
+Shampoo                  $  7.35
+Muffin Mix               $  2.62
+Cheezies                 $ 19.24
+Bagels                   $  9.16
+Candles                  $ 11.87
+[Invalid Product]        $  0.00
+(Barcode: 101001000001000011110000001001001001011000100)
+Puffed wheat             $ 20.32
+[Invalid Product]        $  0.00
+(Barcode: 101001000100001001000010110011000100001011000)
+Endives                  $  4.62
+English muffins          $  3.88
+Oatmeal                  $  6.55
+Shrimp                   $ 17.92
+Steak                    $  6.92
+[Invalid Product]        $  0.00
+(Barcode: 100001100100010010000010110011000100000011001)
+Cocoa powder             $ 12.46
+[Invalid Product]        $  0.00
+(Barcode: 001001001001000011110000001100011000011000100)
+Sausage                  $  4.32
+Alfredo sauce            $ 10.71
+Oranges                  $ 19.30
+Juice                    $ 20.89
+----------------------------------------
+Total:                   $231.38
+
+Cart 36:
+----------------------------------------
+Vanilla extract          $ 11.05
+Relish                   $ 19.32
+Sponges                  $  5.71
+Bleach                   $ 17.85
+[Invalid Product]        $  0.00
+(Barcode: 001010010100010010100000110100000011011000100)
+----------------------------------------
+Total:                   $ 53.93
+
+Cart 37:
+----------------------------------------
+Paprika                  $ 13.82
+Melon                    $  6.21
+Carrots                  $  3.47
+Lobster                  $ 16.69
+Yellow peppers           $  6.73
+Juice                    $ 20.89
+Nacho chips              $  8.31
+Radishes                 $ 17.98
+Sausage                  $  4.32
+----------------------------------------
+Total:                   $ 98.42
+
+Cart 38:
+----------------------------------------
+Basil                    $ 14.90
+Formula                  $ 18.52
+Paprika                  $ 13.82
+Oregano                  $  1.35
+Toilet paper             $ 11.10
+Tater tots               $  9.30
+[Invalid Product]        $  0.00
+(Barcode: 101001000100001100100011000111000000011000100)
+[Invalid Product]        $  0.00
+(Barcode: 101001000100001100001001100001010010011000100)
+----------------------------------------
+Total:                   $ 68.99
+
+Cart 39:
+----------------------------------------
+[Invalid Product]        $  0.00
+(Barcode: 
+100000110001001100101001000100011000011000100)
+Deodorant                $ 18.58
+Peaches                  $ 13.90
+[Invalid Product]        $  0.00
+(Barcode: 001010010100010010000010110011000100001000110)
+Cottage cheese           $ 15.82
+Icing                    $ 10.28
+Trail mix                $ 12.90
+Parsnips                 $ 12.46
+JellO                    $ 20.58
+Waffles                  $  3.53
+English muffins          $  3.88
+Teething ring            $ 18.72
+----------------------------------------
+Total:                   $130.65
+
+Cart 40:
+----------------------------------------
+Vacuum bags              $ 20.37
+Oranges                  $ 19.30
+[Invalid Product]        $  0.00
+(Barcode: 001001001100011000100001001000010011011000100)
+[Invalid Product]        $  0.00
+(Barcode: 100010010011000001100011000000010011011000100)
+Cheese                   $  4.31
+Waffles                  $  3.53
+[Invalid Product]        $  0.00
+(Barcode: 100001001001000011001000011011000100001000110)
+Kumquats                 $  6.72
+Sponges                  $  5.71
+Carrots                  $  3.47
+Mineral water            $  9.30
+Raisin bran              $  9.15
+Breath mints             $ 15.99
+Peanut butter            $ 10.97
+Liver                    $ 18.61
+Rotini                   $ 12.31
+Syrup                    $  3.46
+Conditioner              $ 15.26
+Ketchup                  $  8.58
+Detergent                $  7.74
+[Invalid Product]        $  0.00
+(Barcode: 100000110001001100101001000100011000011000100)
+Strawberries             $ 15.26
+----------------------------------------
+Total:                   $190.04
+
+Cart 41:
+----------------------------------------
+Cucumbers                $ 11.72
+Cookies                  $  2.74
+Oatmeal                  $  6.55
+[Invalid Product]        $  0.00
+(Barcode: 001010010100010010100000110100000011011000100)
+Pears                    $  5.71
+[Invalid Product]        $  0.00
+(Barcode: 101001000100001001100000011100011000011000100)
+----------------------------------------
+Total:                   $ 26.72
+
+Cart 42:
+----------------------------------------
+Molasses                 $ 15.01
+[Invalid Product]        $  0.00
+(Barcode: 001000110100010010110010000011000100001000110)
+Treats                   $ 18.64
+[Invalid Product]        $  0.00
+(Barcode: 100001100100001001001000011001011000011000100)
+Marmalade                $  9.61
+Salami                   $  2.71
+Macaroni                 $ 18.83
+Baguette                 $ 14.64
+----------------------------------------
+Total:                   $ 79.44
+
+Cart 43:
+----------------------------------------
+Lemons                   $ 11.90
+Sealable bags            $ 18.84
+Oregano                  $  1.35
+Radishes                 $ 17.98
+Linguini                 $ 15.21
+Lobster                  $ 16.69
+Sword fish               $ 11.78
+[Invalid Product]        $  0.00
+(Barcode: 100000110100011000000011001011000100001010010)
+Mushrooms                $  5.01
+Cabbage                  $ 12.36
+Shampoo                  $  7.35
+Rotini                   $ 12.31
+Roast beef               $ 20.67
+Flounder                 $ 16.03
+Maple syrup              $ 13.75
+Steak                    $  6.92
+[Invalid Product]        $  0.00
+(Barcode: 111000000100001001010010001011000100001010010)
+Cloves                   $ 12.02
+Pepperoni                $ 19.74
+Cherries                 $ 13.34
+[Invalid Product]        $  0.00
+(Barcode: 100001100100001001001000110100001100011000100)
+Raspberries              $  4.25
+----------------------------------------
+Total:                   $237.50
+
+Cart 44:
+----------------------------------------
+Onions                   $ 13.83
+[Invalid Product]        $  0.00
+(Barcode: 101001000100001100001001100001010010011000100)
+Sprinkles                $  4.31
+[Invalid Product]        $  0.00
+(Barcode: 001001100101001000100011000011000100101001000)
+[Invalid Product]        $  0.00
+(Barcode: 000011001001001100001000110100001100011000100)
+Nectarines               $  1.76
+Shampoo                  $  7.35
+Garlic                   $ 14.17
+Diapers                  $ 20.37
+Hickory sticks           $  1.12
+Allergy medication       $ 20.06
+Juice                    $ 20.89
+Sponges                  $  5.71
+[Invalid Product]        $  0.00
+(Barcode: 000011001100010010000001101011000100001011000)
+[Invalid Product]        $  0.00
+(Barcode: 100011000000001101000001101011000100000010011)
+Raspberries              $  4.25
+Cilantro                 $  5.73
+Sausage                  $  4.32
+Oranges                  $ 19.30
+----------------------------------------
+Total:                   $143.17
+
+Cart 45:
+----------------------------------------
+Cucumbers                $ 11.72
+Butter                   $  2.64
+Decorations              $  8.76
+Basil                    $ 14.90
+[Invalid Product]        $  0.00
+(Barcode: 001001001001001001000000111011000100001000110)
+Green peppers            $ 10.10
+Plastic cups             $ 18.20
+Burritos                 $  6.07
+Clams                    $  2.27
+Toilet paper             $ 11.10
+Bacon                    $  1.68
+Relish                   $ 19.32
+Protein bars             $ 11.18
+Celery                   $  2.74
+Detergent                $  7.74
+Sprinkles                $  4.31
+Strawberries             $ 15.26
+[Invalid Product]        $  0.00
+(Barcode: 001001100101001000100011000011000100101001000)
+[Invalid Product]        $  0.00
+(Barcode: 101001000001000011110000001001001001011000100)
+Dried fruit              $  2.81
+[Invalid Product]        $  0.00
+(Barcode: 101001000100001001100000011100011000011000100)
+Cocoa powder             $ 12.46
+Mints                    $ 14.32
+Rutabagas                $ 13.36
+----------------------------------------
+Total:                   $190.94
+
+Cart 46:
+----------------------------------------
+Fruit                    $  6.24
+Waffles                  $  3.53
+Flour                    $  7.57
+Maple syrup              $ 13.75
+Radishes                 $ 17.98
+Peanut butter            $ 10.97
+Detergent                $  7.74
+Squash                   $ 10.39
+Sealable bags            $ 18.84
+Allergy medication       $ 20.06
+[Invalid Product]        $  0.00
+(Barcode: 100000110110010000100011000011000100001001001)
+Apple sauce              $ 16.84
+JellO                    $ 20.58
+[Invalid Product]        $  0.00
+(Barcode: 100010010001001100001000011011000100101001000)
+Conditioner              $ 15.26
+Mixed vegetables         $  9.11
+[Invalid Product]        $  0.00
+(Barcode: 101000010100001001101001000011000100101001000)
+Endives                  $  4.62
+Raspberries              $  4.25
+Onions                   $ 13.83
+[Invalid Product]        $  0.00
+(Barcode: 100001001001001100100000110011000100001011000)
+Oranges                  $ 19.30
+----------------------------------------
+Total:                   $220.86
+
+Cart 47:
+----------------------------------------
+Margarine                $ 14.13
+[Invalid Product]        $  0.00
+(Barcode: 001010010001001100000010110100001001011000100)
+Vanilla extract          $ 11.05
+Cottage cheese           $ 15.82
+English muffins          $  3.88
+----------------------------------------
+Total:                   $ 44.88
+
+Cart 48:
+----------------------------------------
+Sponges                  $  5.71
+Trail mix                $ 12.90
+Coffee                   $ 18.98
+Ravioli                  $  1.31
+[Invalid Product]        $  0.00
+(Barcode: 001000110000010110001001100100000110011000100)
+Chick peas               $ 15.73
+[Invalid Product]        $  0.00
+(Barcode: 001000011001001100001010010011000100001001001)
+Pumpkin                  $  7.10
+[Invalid Product]        $  0.00
+(Barcode: 000010011100001001001001100001000011011000100)
+Detergent                $  7.74
+Vinegar                  $  5.85
+Bread                    $  2.82
+Endives                  $  4.62
+Garbage bags             $  7.03
+[Invalid Product]        $  0.00
+(Barcode: 100010010011000001100011000000010011011000100)
+Marmalade                $  9.61
+----------------------------------------
+Total:                   $ 99.40
+
+Cart 49:
+----------------------------------------
+Pears                    $  5.71
+Chocolate                $  7.52
+Cream                    $  4.74
+----------------------------------------
+Total:                   $ 17.97
+
+Cart 50:
+----------------------------------------
+Cauliflower              $ 14.74
+Asparagus                $ 20.23
+Vinegar                  $  5.85
+Macaroni                 $ 18.83
+Oatmeal                  $  6.55
+----------------------------------------
+Total:                   $ 66.20
+
+Cart 51:
+----------------------------------------
+Nectarines               $  1.76
+[Invalid Product]        $  0.00
+(Barcode: 001001001100001001100000110011000100001000110)
+Macaroni                 $ 18.83
+Bread                    $  2.82
+[Invalid Product]        $  0.00
+(Barcode: 101001000100001001100000011100011000011000100)
+Fruit                    $  6.24
+Dried fruit              $  2.81
+[Invalid Product]        $  0.00
+(Barcode: 101000010100001001101001000011000100101001000)
+Apple sauce              $ 16.84
+Oysters                  $ 14.42
+Baguette                 $ 14.64
+Breath mints             $ 15.99
+----------------------------------------
+Total:                   $ 94.35
+
+Cart 52:
+----------------------------------------
+Cabbage                  $ 12.36
+Pectin                   $  1.56
+[Invalid Product]        $  0.00
+(Barcode: 101001000100001100001001100001010010011000100)
+Salami                   $  2.71
+Steak                    $  6.92
+Pears                    $  5.71
+Collards                 $ 11.52
+Aluminum foil            $  8.92
+Fruit                    $  6.24
+[Invalid Product]        $  0.00
+(Barcode: 001000011001001100001010010011000100001001001)
+Bleach                   $ 17.85
+[Invalid Product]        $  0.00
+(Barcode: 100001100100001001000010011000011001011000100)
+----------------------------------------
+Total:                   $ 73.79
+
+Cart 53:
+----------------------------------------
+Endives                  $  4.62
+Beets                    $ 18.30
+Sprinkles                $  4.31
+Bouillon cubes           $  5.46
+Rotini                   $ 12.31
+Cucumbers                $ 11.72
+Napkins                  $ 17.70
+[Invalid Product]        $  0.00
+(Barcode: 001000011001001100001010010011000100001001001)
+Kumquats                 $  6.72
+----------------------------------------
+Total:                   $ 81.14
+
+Cart 54:
+----------------------------------------
+[Invalid Product]        $  0.00
+(Barcode: 
+101001000100001001100000011100011000011000100)
+Shrimp                   $ 17.92
+Chard                    $ 13.79
+Mushrooms                $  5.01
+Turkey                   $ 13.95
+[Invalid Product]        $  0.00
+(Barcode: 001000110100010010110010000011000100101000010)
+[Invalid Product]        $  0.00
+(Barcode: 001001001100001001100000110011000100001000110)
+Perogies                 $  1.51
+Jelly                    $  1.67
+Toilet paper             $ 11.10
+Asparagus                $ 20.23
+----------------------------------------
+Total:                   $ 85.18
+
+Cart 55:
+----------------------------------------
+Sponges                  $  5.71
+Nacho chips              $  8.31
+Paper plates             $ 13.48
+Anchovies                $  6.04
+Spaghetti                $ 17.58
+Scrubbers                $  1.89
+Tomatoes                 $  6.36
+Radishes                 $ 17.98
+Pabulum                  $  8.54
+Fruit                    $  6.24
+Gravy                    $ 19.94
+----------------------------------------
+Total:                   $112.07
+
+Cart 56:
+----------------------------------------
+Instant Noodles          $ 16.15
+Endives                  $  4.62
+[Invalid Product]        $  0.00
+(Barcode: 001001001100001001001001001110010000011000100)
+Pabulum                  $  8.54
+Apple sauce              $ 16.84
+Bacon                    $  1.68
+Parsley                  $ 13.03
+Paprika                  $ 13.82
+Aluminum foil            $  8.92
+[Invalid Product]        $  0.00
+(Barcode: 101000010100001001101001000011000100101001000)
+Dried fruit              $  2.81
+Tomatoes                 $  6.36
+Pancake mix              $ 13.60
+Peanut butter            $ 10.97
+Tilapia                  $  2.43
+----------------------------------------
+Total:                   $119.77
+
+Cart 57:
+----------------------------------------
+Candles                  $ 11.87
+Tilapia                  $  2.43
+Bisquick                 $  6.33
+Bologna                  $  4.80
+[Invalid Product]        $  0.00
+(Barcode: 000010011100001001001001100001000011011000100)
+Pancake mix              $ 13.60
+Cabbage                  $ 12.36
+Radishes                 $ 17.98
+----------------------------------------
+Total:                   $ 69.37
+
+Cart 58:
+----------------------------------------
+Kumquats                 $  6.72
+Protein bars             $ 11.18
+[Invalid Product]        $  0.00
+(Barcode: 100011000000001101000001101011000100001000110)
+[Invalid Product]        $  0.00
+(Barcode: 101001000100001001100000011100011000011000100)
+Rotini                   $ 12.31
+----------------------------------------
+Total:                   $ 30.21
+
+Cart 59:
+----------------------------------------
+[Invalid Product]        $  0.00
+(Barcode: 
+000010110110000001001001001011000100101001000)
+Radishes                 $ 17.98
+Perogies                 $  1.51
+Pretzels                 $  1.17
+[Invalid Product]        $  0.00
+(Barcode: 001001001100011000100001001000010011011000100)
+Pineapple                $ 15.00
+Medicine                 $  9.56
+Ginger                   $  1.98
+Bagels                   $  9.16
+Couscous                 $  9.27
+[Invalid Product]        $  0.00
+(Barcode: 111000000100001001010010001011000100001010010)
+Paper plates             $ 13.48
+Mixed vegetables         $  9.11
+Halibut                  $  3.20
+Mozzarella sticks        $  8.26
+Garbage bags             $  7.03
+Sprinkles                $  4.31
+Cheese                   $  4.31
+Pepperoni                $ 19.74
+[Invalid Product]        $  0.00
+(Barcode: 001001001100001001100000110011000100001000110)
+Flour                    $  7.57
+Apple sauce              $ 16.84
+[Invalid Product]        $  0.00
+(Barcode: 001000110100010010110010000011000100001000110)
+Collards                 $ 11.52
+----------------------------------------
+Total:                   $171.00
+
+Cart 60:
+----------------------------------------
+Pepperoni                $ 19.74
+Paper plates             $ 13.48
+Macaroni                 $ 18.83
+Fabric softener          $ 19.58
+Protein bars             $ 11.18
+Linguini                 $ 15.21
+----------------------------------------
+Total:                   $ 98.02
+
+Cart 61:
+----------------------------------------
+Peanut butter            $ 10.97
+[Invalid Product]        $  0.00
+(Barcode: 100010010001001100001000011011000100101001000)
+Bologna                  $  4.80
+Pepperoni                $ 19.74
+Burritos                 $  6.07
+Pasta                    $  9.20
+----------------------------------------
+Total:                   $ 50.78
+
+Cart 62:
+----------------------------------------
+Sprinkles                $  4.31
+Basil                    $ 14.90
+Cinnamon                 $  3.28
+[Invalid Product]        $  0.00
+(Barcode: 101001000100001001100000011100011000011000100)
+Chocolate                $  7.52
+Marmalade                $  9.61
+Limes                    $  5.58
+Hickory sticks           $  1.12
+Glass's cleaner          $ 15.99
+Pears                    $  5.71
+[Invalid Product]        $  0.00
+(Barcode: 001001001100001001100000110011000100001000110)
+Radishes                 $ 17.98
+Pepperoni                $ 19.74
+Potatoes                 $ 17.48
+Kiwis                    $ 11.97
+----------------------------------------
+Total:                   $135.19
+
+Cart 63:
+----------------------------------------
+Basil                    $ 14.90
+Plums                    $  1.13
+[Invalid Product]        $  0.00
+(Barcode: 001001001001001001000000111011000100001000110)
+Instant Noodles          $ 16.15
+[Invalid Product]        $  0.00
+(Barcode: 001001001001000011110000001100011000011000100)
+Radishes                 $ 17.98
+Cheezies                 $ 19.24
+Pumpkin                  $  7.10
+[Invalid Product]        $  0.00
+(Barcode: 001001001100011000100001001000010011011000100)
+Vinegar                  $  5.85
+Vacuum bags              $ 20.37
+Oatmeal                  $  6.55
+Candles                  $ 11.87
+Chard                    $ 13.79
+Anchovies                $  6.04
+Parsley                  $ 13.03
+Mussels                  $ 15.41
+Sardines                 $ 19.65
+Cookies                  $  2.74
+[Invalid Product]        $  0.00
+(Barcode: 100001100100001001001000110100001100011000100)
+Sponges                  $  5.71
+Medicine                 $  9.56
+Liver                    $ 18.61
+Tartar Sauce             $ 19.88
+----------------------------------------
+Total:                   $245.56
+
+Cart 64:
+----------------------------------------
+Lettuce                  $  7.63
+Deodorant                $ 18.58
+Anchovies                $  6.04
+Lunch bags               $  7.43
+Juice                    $ 20.89
+Mixed vegetables         $  9.11
+----------------------------------------
+Total:                   $ 69.68
+
+Cart 65:
+----------------------------------------
+Pineapple                $ 15.00
+Protein bars             $ 11.18
+Cereal                   $  4.55
+Melon                    $  6.21
+Shrimp                   $ 17.92
+Spinach                  $ 19.17
+Mozzarella sticks        $  8.26
+Sardines                 $ 19.65
+Lettuce                  $  7.63
+[Invalid Product]        $  0.00
+(Barcode: 100010010011000001100011000000010011011000100)
+[Invalid Product]        $  0.00
+(Barcode: 100001100100001001001000110100001100011000100)
+Ginger                   $  1.98
+Cherries                 $ 13.34
+----------------------------------------
+Total:                   $124.89
+
+Cart 66:
+----------------------------------------
+Grapes                   $ 11.35
+[Invalid Product]        $  0.00
+(Barcode: 101001000100010010001000011000011001011000100)
+Deodorant                $ 18.58
+Glass's cleaner          $ 15.99
+Celery                   $  2.74
+Fruit                    $  6.24
+----------------------------------------
+Total:                   $ 54.90
+
+Cart 67:
+----------------------------------------
+Cauliflower              $ 14.74
+Lemons                   $ 11.90
+Molasses                 $ 15.01
+Cottage cheese           $ 15.82
+Salad dressing           $  3.52
+[Invalid Product]        $  0.00
+(Barcode: 000011001001001100001000110100001100011000100)
+Anchovies                $  6.04
+Ketchup                  $  8.58
+[Invalid Product]        $  0.00
+(Barcode: 100001100100001001001001100100000110011000100)
+Spinach                  $ 19.17
+[Invalid Product]        $  0.00
+(Barcode: 001000110100010010110000001100000110011000100)
+----------------------------------------
+Total:                   $ 94.78
+
+Cart 68:
+----------------------------------------
+Yeast                    $ 16.48
+[Invalid Product]        $  0.00
+(Barcode: 001000110100010010110010000011000100101000010)
+[Invalid Product]        $  0.00
+(Barcode: 100011000000001101000001101011000100000010011)
+Endives                  $  4.62
+Sprouts                  $  5.54
+Cleaner                  $  4.65
+Radishes                 $ 17.98
+Bagels                   $  9.16
+Chard                    $ 13.79
+Bread                    $  2.82
+Hickory sticks           $  1.12
+Mayonnaise               $  8.25
+Salsa                    $  9.80
+Muslix                   $  5.83
+Tomatoes                 $  6.36
+[Invalid Product]        $  0.00
+(Barcode: 100011000000001101000001101011000100001000110)
+Cherries                 $ 13.34
+Diapers                  $ 20.37
+Parsley                  $ 13.03
+----------------------------------------
+Total:                   $153.14
+
+Cart 69:
+----------------------------------------
+Lunch bags               $  7.43
+Yogurt                   $  7.99
+Doughnuts                $  2.10
+Cottage cheese           $ 15.82
+Cauliflower              $ 14.74
+Pepperoni                $ 19.74
+[Invalid Product]        $  0.00
+(Barcode: 101000010100001001101001000011000100101001000)
+Diapers                  $ 20.37
+Papaya                   $ 20.29
+Antacids                 $ 10.88
+[Invalid Product]        $  0.00
+(Barcode: 000010011100001001001001100001000011011000100)
+Sourdough                $ 11.34
+Pineapple                $ 15.00
+----------------------------------------
+Total:                   $145.70
+
+Cart 70:
+----------------------------------------
+Oatmeal                  $  6.55
+[Invalid Product]        $  0.00
+(Barcode: 001001001100011000100011000001011000011000100)
+[Invalid Product]        $  0.00
+(Barcode: 001001001001001001000000111011000100001000110)
+Whipping cream           $ 13.76
+Mushrooms                $  5.01
+Syrup                    $  3.46
+Coffee                   $ 18.98
+Ketchup                  $  8.58
+Sorbet                   $  8.66
+Muslix                   $  5.83
+Bread                    $  2.82
+Medicine                 $  9.56
+Chili                    $  3.39
+Protein bars             $ 11.18
+Marmalade                $  9.61
+Toilet paper             $ 11.10
+Facial tissue            $ 19.80
+[Invalid Product]        $  0.00
+(Barcode: 001000110100010010110000001100000110011000100)
+Mustard                  $  7.67
+[Invalid Product]        $  0.00
+(Barcode: 001001001100011000100001001000010011011000100)
+Decorations              $  8.76
+Scrubbers                $  1.89
+Squash                   $ 10.39
+Icing                    $ 10.28
+----------------------------------------
+Total:                   $177.28
+
+Cart 71:
+----------------------------------------
+[Invalid Product]        $  0.00
+(Barcode: 
+101001000100010010100000110000010011011000100)
+Clams                    $  2.27
+Oysters                  $ 14.42
+[Invalid Product]        $  0.00
+(Barcode: 000010110011000001011000100000011001001001100)
+Raisin bran              $  9.15
+Linguini                 $ 15.21
+Basil                    $ 14.90
+Protein bars             $ 11.18
+Marmalade                $  9.61
+Instant Noodles          $ 16.15
+Olives                   $ 18.46
+Lobster                  $ 16.69
+Pickles                  $ 10.63
+Antacids                 $ 10.88
+Hickory sticks           $  1.12
+Bleach                   $ 17.85
+Salsa                    $  9.80
+Flounder                 $ 16.03
+----------------------------------------
+Total:                   $194.35
+
+Cart 72:
+----------------------------------------
+[Invalid Product]        $  0.00
+(Barcode: 
+100010010011000001100011000000010011011000100)
+Hickory sticks           $  1.12
+Turkey                   $ 13.95
+Medicine                 $  9.56
+Popsicles                $  3.77
+Instant Noodles          $ 16.15
+[Invalid Product]        $  0.00
+(Barcode: 101001000100001001000010110011000100001011000)
+[Invalid Product]        $  0.00
+(Barcode: 001001001100011000100011000001011000011000100)
+Vinegar                  $  5.85
+[Invalid Product]        $  0.00
+(Barcode: 001001100101001000100011000011000100101001000)
+Fruit                    $  6.24
+[Invalid Product]        $  0.00
+(Barcode: 000011001001001100001000110100001100011000100)
+----------------------------------------
+Total:                   $ 56.64
+
+Cart 73:
+----------------------------------------
+Drink crystals           $ 13.34
+Breath mints             $ 15.99
+JellO                    $ 20.58
+Halibut                  $  3.20
+Chili                    $  3.39
+----------------------------------------
+Total:                   $ 56.50
+
+Cart 74:
+----------------------------------------
+Grapes                   $ 11.35
+Bologna                  $  4.80
+Pumpernickel             $ 11.50
+[Invalid Product]        $  0.00
+(Barcode: 100000110110010000100011000011000100001001001)
+[Invalid Product]        $  0.00
+(Barcode: 101001000100001001100000011100011000011000100)
+Deodorant                $ 18.58
+----------------------------------------
+Total:                   $ 46.23
+
+Cart 75:
+----------------------------------------
+Apricots                 $  7.51
+[Invalid Product]        $  0.00
+(Barcode: 100001100100001001001000110100001100011000100)
+Burgers                  $  5.04
+Broccoli                 $ 14.42
+----------------------------------------
+Total:                   $ 26.97
+
+Cart 76:
+----------------------------------------
+Beets                    $ 18.30
+[Invalid Product]        $  0.00
+(Barcode: 101001000100010010001000011000011001011000100)
+[Invalid Product]        $  0.00
+(Barcode: 001001001100011000100001001000010011011000100)
+Salsa                    $  9.80
+Oranges                  $ 19.30
+Hickory sticks           $  1.12
+Pepperoni                $ 19.74
+Granola bars             $  2.88
+Sponges                  $  5.71
+[Invalid Product]        $  0.00
+(Barcode: 001001001100011000100011000001011000011000100)
+Pickles                  $ 10.63
+[Invalid Product]        $  0.00
+(Barcode: 001001001100001001100000110011000100001000110)
+Mayonnaise               $  8.25
+Veggie burgers           $  1.47
+Apple sauce              $ 16.84
+----------------------------------------
+Total:                   $114.04
+
+Cart 77:
+----------------------------------------
+Chips                    $ 13.34
+Cleaner                  $  4.65
+Fruit                    $  6.24
+Mayonnaise               $  8.25
+Vacuum bags              $ 20.37
+Sword fish               $ 11.78
+Basil                    $ 14.90
+[Invalid Product]        $  0.00
+(Barcode: 100000110001001100101001000100011000011000100)
+Apple sauce              $ 16.84
+Garbage bags             $  7.03
+Squash                   $ 10.39
+Cranberries              $ 15.17
+[Invalid Product]        $  0.00
+(Barcode: 101001000100010010001000011000011001011000100)
+Nectarines               $  1.76
+Conditioner              $ 15.26
+Pretzels                 $  1.17
+Raspberries              $  4.25
+----------------------------------------
+Total:                   $151.40
+
+Cart 78:
+----------------------------------------
+Asparagus                $ 20.23
+[Invalid Product]        $  0.00
+(Barcode: 101001000100001100100011000111000000011000100)
+Garbage bags             $  7.03
+[Invalid Product]        $  0.00
+(Barcode: 100001100100001001001000110100001100011000100)
+Mustard                  $  7.67
+Pumpernickel             $ 11.50
+Scrubbers                $  1.89
+----------------------------------------
+Total:                   $ 48.32
+
+Cart 79:
+----------------------------------------
+[Invalid Product]        $  0.00
+(Barcode: 
+001000110100010010110000001100000110011000100)
+French fries             $ 19.82
+Fruit                    $  6.24
+Mayonnaise               $  8.25
+Muffin Mix               $  2.62
+Lettuce                  $  7.63
+Pabulum                  $  8.54
+Cinnamon                 $  3.28
+Basil                    $ 14.90
+[Invalid Product]        $  0.00
+(Barcode: 001001001100011000100001001000010011011000100)
+Pepperoni                $ 19.74
+Apricots                 $  7.51
+Cookies                  $  2.74
+Chick peas               $ 15.73
+Pears                    $  5.71
+Popsicles                $  3.77
+Mustard                  $  7.67
+----------------------------------------
+Total:                   $134.15
+
+Cart 80:
+----------------------------------------
+Cherries                 $ 13.34
+Tartar Sauce             $ 19.88
+Muffin Mix               $  2.62
+Sorbet                   $  8.66
+[Invalid Product]        $  0.00
+(Barcode: 100001001001001100100000110011000100001011000)
+Asparagus                $ 20.23
+Cheezies                 $ 19.24
+Mayonnaise               $  8.25
+[Invalid Product]        $  0.00
+(Barcode: 001000011001001100001010010011000100001001001)
+Ketchup                  $  8.58
+Salmon                   $ 16.39
+[Invalid Product]        $  0.00
+(Barcode: 001001001100011000100011000001011000011000100)
+Potatoes                 $ 17.48
+[Invalid Product]        $  0.00
+(Barcode: 100010010001001100001000011011000100101001000)
+Whipping cream           $ 13.76
+Oysters                  $ 14.42
+Mozzarella sticks        $  8.26
+Antacids                 $ 10.88
+Peaches                  $ 13.90
+Molasses                 $ 15.01
+Anchovies                $  6.04
+Napkins                  $ 17.70
+Apricots                 $  7.51
+Tortillas                $  3.99
+Rotini                   $ 12.31
+----------------------------------------
+Total:                   $258.45
+
+Cart 81:
+----------------------------------------
+Apple sauce              $ 16.84
+Icing                    $ 10.28
+[Invalid Product]        $  0.00
+(Barcode: 100000110001001100101001000100011000011000100)
+Melon                    $  6.21
+Flour                    $  7.57
+Cabbage                  $ 12.36
+Muslix                   $  5.83
+Limes                    $  5.58
+Steak                    $  6.92
+[Invalid Product]        $  0.00
+(Barcode: 101000010100001001101001000011000100101001000)
+Protein bars             $ 11.18
+Parsnips                 $ 12.46
+Marmalade                $  9.61
+Turkey                   $ 13.95
+Teething ring            $ 18.72
+Roast beef               $ 20.67
+Cream                    $  4.74
+Maple syrup              $ 13.75
+French fries             $ 19.82
+Lettuce                  $  7.63
+----------------------------------------
+Total:                   $204.12
+
+Cart 82:
+----------------------------------------
+Mints                    $ 14.32
+Cheese                   $  4.31
+Mineral water            $  9.30
+Tortillas                $  3.99
+Bottle liners            $ 19.44
+Kohlrabi                 $  3.83
+Ravioli                  $  1.31
+Whipping cream           $ 13.76
+Mussels                  $ 15.41
+[Invalid Product]        $  0.00
+(Barcode: 100011000000001101000001101011000100001000110)
+Cocoa powder             $ 12.46
+[Invalid Product]        $  0.00
+(Barcode: 000010110110000001001001001011000100101001000)
+Chives                   $ 20.62
+Apple sauce              $ 16.84
+[Invalid Product]        $  0.00
+(Barcode: 001001001100001001001001001110010000011000100)
+Perogies                 $  1.51
+Sport drink              $ 14.26
+Honey                    $  5.29
+----------------------------------------
+Total:                   $156.65
+
+Cart 83:
+----------------------------------------
+Mozzarella sticks        $  8.26
+Aluminum foil            $  8.92
+Ginger                   $  1.98
+Pancake mix              $ 13.60
+[Invalid Product]        $  0.00
+(Barcode: 001011000001001100001000110100001100011000100)
+[Invalid Product]        $  0.00
+(Barcode: 100011000000001101000001101011000100001000110)
+Mixed vegetables         $  9.11
+----------------------------------------
+Total:                   $ 41.87
+
+Cart 84:
+----------------------------------------
+Kumquats                 $  6.72
+[Invalid Product]        $  0.00
+(Barcode: 100010010001001100001000011011000100101001000)
+Syrup                    $  3.46
+Green peppers            $ 10.10
+Bisquick                 $  6.33
+Salad dressing           $  3.52
+[Invalid Product]        $  0.00
+(Barcode: 101001000001000011110000001001001001011000100)
+[Invalid Product]        $  0.00
+(Barcode: 100000110001001100101001000100011000011000100)
+Toilet paper             $ 11.10
+[Invalid Product]        $  0.00
+(Barcode: 001011000001001100001000110100001100011000100)
+[Invalid Product]        $  0.00
+(Barcode: 100001100100001001001001100100000110011000100)
+Allergy medication       $ 20.06
+Pickles                  $ 10.63
+[Invalid Product]        $  0.00
+(Barcode: 000011001001001100001000110100001100011000100)
+Paper plates             $ 13.48
+----------------------------------------
+Total:                   $ 85.40
+
+Cart 85:
+----------------------------------------
+[Invalid Product]        $  0.00
+(Barcode: 
+101001000001000011110000001001001001011000100)
+[Invalid Product]        $  0.00
+(Barcode: 100001001001000011001000011011000100001000110)
+[Invalid Product]        $  0.00
+(Barcode: 001001001100001001110010000011000100001000011)
+Butter                   $  2.64
+[Invalid Product]        $  0.00
+(Barcode: 101001000100001001000010110011000100001011000)
+Muslix                   $  5.83
+Rutabagas                $ 13.36
+[Invalid Product]        $  0.00
+(Barcode: 001011000001001100001000110100001100011000100)
+Coffee                   $ 18.98
+Bread                    $  2.82
+Sponges                  $  5.71
+Pancake mix              $ 13.60
+[Invalid Product]        $  0.00
+(Barcode: 001001001001000011110000001100011000011000100)
+Facial tissue            $ 19.80
+Cocoa powder             $ 12.46
+Pears                    $  5.71
+Cotton swabs             $ 15.90
+Onions                   $ 13.83
+[Invalid Product]        $  0.00
+(Barcode: 101001000100001100001001100001010010011000100)
+[Invalid Product]        $  0.00
+(Barcode: 101000010100001001101001000011000100101001000)
+[Invalid Product]        $  0.00
+(Barcode: 100001100100001001001000011001011000011000100)
+Pineapple                $ 15.00
+----------------------------------------
+Total:                   $145.64
+
+Cart 86:
+----------------------------------------
+[Invalid Product]        $  0.00
+(Barcode: 
+000010110110000001001001001011000100101001000)
+Perogies                 $  1.51
+Nectarines               $  1.76
+Scrubbers                $  1.89
+Pizza                    $  1.05
+Olives                   $ 18.46
+Sausage                  $  4.32
+Yellow peppers           $  6.73
+Cheezies                 $ 19.24
+----------------------------------------
+Total:                   $ 54.96
+
+Cart 87:
+----------------------------------------
+[Invalid Product]        $  0.00
+(Barcode: 
+001000110100010010110010000011000100101000010)
+Sealable bags            $ 18.84
+Lunch bags               $  7.43
+Cucumbers                $ 11.72
+Dried fruit              $  2.81
+Basil                    $ 14.90
+Yogurt                   $  7.99
+[Invalid Product]        $  0.00
+(Barcode: 101001000100010010001000011000011001011000100)
+Shampoo                  $  7.35
+----------------------------------------
+Total:                   $ 71.04
+
+Cart 88:
+----------------------------------------
+Bottle liners            $ 19.44
+[Invalid Product]        $  0.00
+(Barcode: 101001000100001001100000011100011000011000100)
+Band-aids                $  4.59
+Pickles                  $ 10.63
+Endives                  $  4.62
+Pasta                    $  9.20
+Papaya                   $ 20.29
+Pancake mix              $ 13.60
+Treats                   $ 18.64
+[Invalid Product]        $  0.00
+(Barcode: 001001001100011000100001001000010011011000100)
+[Invalid Product]        $  0.00
+(Barcode: 100000110110010000100011000011000100001001001)
+Aluminum foil            $  8.92
+----------------------------------------
+Total:                   $109.93
+
+Cart 89:
+----------------------------------------
+Breath mints             $ 15.99
+Macaroni                 $ 18.83
+Beets                    $ 18.30
+[Invalid Product]        $  0.00
+(Barcode: 100011000000001101000001101011000100000010011)
+Basil                    $ 14.90
+Band-aids                $  4.59
+Cleaner                  $  4.65
+Green peppers            $ 10.10
+Cauliflower              $ 14.74
+Bananas                  $ 16.76
+Ginger                   $  1.98
+Pineapple                $ 15.00
+----------------------------------------
+Total:                   $135.84
+
+Cart 90:
+----------------------------------------
+Yeast                    $ 16.48
+Apple sauce              $ 16.84
+Allergy medication       $ 20.06
+Pasta                    $  9.20
+Broccoli                 $ 14.42
+[Invalid Product]        $  0.00
+(Barcode: 001000110100010010110010000011000100101000010)
+Trail mix                $ 12.90
+Tilapia                  $  2.43
+Squash                   $ 10.39
+[Invalid Product]        $  0.00
+(Barcode: 111000000100001001010010001011000100001010010)
+Cookies                  $  2.74
+Brownies                 $ 18.76
+Pumpkin                  $  7.10
+[Invalid Product]        $  0.00
+(Barcode: 101001000100010010001000011000011001011000100)
+Cheezies                 $ 19.24
+Formula                  $ 18.52
+[Invalid Product]        $  0.00
+(Barcode: 100001100100010010000010110011000100000011001)
+Cream                    $  4.74
+----------------------------------------
+Total:                   $173.82
+
+Cart 91:
+----------------------------------------
+Cauliflower              $ 14.74
+Formula                  $ 18.52
+Mousse                   $ 11.02
+[Invalid Product]        $  0.00
+(Barcode: 100001100100001001001000110100001100011000100)
+Molasses                 $ 15.01
+Marmalade                $  9.61
+Peanut butter            $ 10.97
+Sorbet                   $  8.66
+Clams                    $  2.27
+[Invalid Product]        $  0.00
+(Barcode: 001001001100011000100011000001011000011000100)
+Bagels                   $  9.16
+Pretzels                 $  1.17
+Candy                    $  2.35
+Apple sauce              $ 16.84
+Instant Noodles          $ 16.15
+----------------------------------------
+Total:                   $136.47
+
+Cart 92:
+----------------------------------------
+English muffins          $  3.88
+Bouillon cubes           $  5.46
+Shrimp                   $ 17.92
+[Invalid Product]        $  0.00
+(Barcode: 001001001100011000100001001000010011011000100)
+Salami                   $  2.71
+Kumquats                 $  6.72
+Mayonnaise               $  8.25
+Whole grain              $ 19.78
+Mangoes                  $  9.06
+Oranges                  $ 19.30
+Instant Noodles          $ 16.15
+Bread                    $  2.82
+Couscous                 $  9.27
+[Invalid Product]        $  0.00
+(Barcode: 001001001100001001110010000011000100001000011)
+Anchovies                $  6.04
+Muslix                   $  5.83
+Salmon                   $ 16.39
+Lettuce                  $  7.63
+Cilantro                 $  5.73
+Cereal                   $  4.55
+----------------------------------------
+Total:                   $167.49
+
+Cart 93:
+----------------------------------------
+Rotini                   $ 12.31
+Couscous                 $  9.27
+[Invalid Product]        $  0.00
+(Barcode: 101001000001000011110000001001001001011000100)
+[Invalid Product]        $  0.00
+(Barcode: 001001001001001001000000111011000100001000110)
+Paper plates             $ 13.48
+Liver                    $ 18.61
+Sorbet                   $  8.66
+Spaghetti                $ 17.58
+Cantaloupe               $  8.99
+Limes                    $  5.58
+Plastic cups             $ 18.20
+Fruit                    $  6.24
+Cotton swabs             $ 15.90
+Sourdough                $ 11.34
+Steak                    $  6.92
+Pancake mix              $ 13.60
+[Invalid Product]        $  0.00
+(Barcode: 000010011100001001001001100001000011011000100)
+Pancake mix              $ 13.60
+Margarine                $ 14.13
+Shrimp                   $ 17.92
+[Invalid Product]        $  0.00
+(Barcode: 100000110110010000100011000011000100001001001)
+Onions                   $ 13.83
+[Invalid Product]        $  0.00
+(Barcode: 100001001001001100100000110011000100001011000)
+Mixed vegetables         $  9.11
+Popsicles                $  3.77
+----------------------------------------
+Total:                   $239.04
+
+Cart 94:
+----------------------------------------
+Paprika                  $ 13.82
+[Invalid Product]        $  0.00
+(Barcode: 100001100100010010000010110011000100000011001)
+Apricots                 $  7.51
+Mints                    $ 14.32
+Tilapia                  $  2.43
+[Invalid Product]        $  0.00
+(Barcode: 000010011100001001001001100001000011011000100)
+Rutabagas                $ 13.36
+Detergent                $  7.74
+Granola bars             $  2.88
+Cereal                   $  4.55
+Pumpkin                  $  7.10
+----------------------------------------
+Total:                   $ 73.71
+
+Cart 95:
+----------------------------------------
+Veggie burgers           $  1.47
+Cheese                   $  4.31
+Sport drink              $ 14.26
+Cantaloupe               $  8.99
+----------------------------------------
+Total:                   $ 29.03
+
+Cart 96:
+----------------------------------------
+Pasta                    $  9.20
+Mints                    $ 14.32
+Taquitos                 $ 14.26
+[Invalid Product]        $  0.00
+(Barcode: 001001001001001001000000111011000100001000110)
+Asparagus                $ 20.23
+Cocoa powder             $ 12.46
+----------------------------------------
+Total:                   $ 70.47
+
+Cart 97:
+----------------------------------------
+Cottage cheese           $ 15.82
+[Invalid Product]        $  0.00
+(Barcode: 101000010100001001101001000011000100101001000)
+Bouillon cubes           $  5.46
+Cream                    $  4.74
+Relish                   $ 19.32
+Honey                    $  5.29
+Medicine                 $  9.56
+Squash                   $ 10.39
+Cleaner                  $  4.65
+----------------------------------------
+Total:                   $ 75.23
+
+Cart 98:
+----------------------------------------
+Bananas                  $ 16.76
+Turkey                   $ 13.95
+Macaroni                 $ 18.83
+[Invalid Product]        $  0.00
+(Barcode: 111000000100001001010010001011000100001010010)
+Mints                    $ 14.32
+Chili                    $  3.39
+Mayonnaise               $  8.25
+[Invalid Product]        $  0.00
+(Barcode: 000011001001001100001000110100001100011000100)
+Oranges                  $ 19.30
+Diapers                  $ 20.37
+----------------------------------------
+Total:                   $115.17
+
+Cart 99:
+----------------------------------------
+[Invalid Product]        $  0.00
+(Barcode: 
+100000110001001100101001000100011000011000100)
+Peanut butter            $ 10.97
+Bacon                    $  1.68
+Vacuum bags              $ 20.37
+Cottage cheese           $ 15.82
+Pretzels                 $  1.17
+Protein bars             $ 11.18
+Macaroni                 $ 18.83
+Cotton swabs             $ 15.90
+[Invalid Product]        $  0.00
+(Barcode: 001001001100011000100011000001011000011000100)
+Parsley                  $ 13.03
+Papaya                   $ 20.29
+Kumquats                 $  6.72
+Juice                    $ 20.89
+Steak                    $  6.92
+[Invalid Product]        $  0.00
+(Barcode: 001000110100010010110010000011000100101000010)
+[Invalid Product]        $  0.00
+(Barcode: 001001001001000011110000001100011000011000100)
+Cheezies                 $ 19.24
+Napkins                  $ 17.70
+Mayonnaise               $  8.25
+[Invalid Product]        $  0.00
+(Barcode: 100001100100010010000010110011000100001000110)
+----------------------------------------
+Total:                   $208.96
+
+Cart 100:
+----------------------------------------
+Candles                  $ 11.87
+[Invalid Product]        $  0.00
+(Barcode: 101001000100001001000010110011000100001011000)
+Pumpkin                  $  7.10
+Steak                    $  6.92
+Flounder                 $ 16.03
+Pabulum                  $  8.54
+Salsa                    $  9.80
+Strawberries             $ 15.26
+Halibut                  $  3.20
+Bagels                   $  9.16
+[Invalid Product]        $  0.00
+(Barcode: 001000011001001100001010010011000100001001001)
+Tilapia                  $  2.43
+Granola bars             $  2.88
+Pepperoni                $ 19.74
+----------------------------------------
+Total:                   $112.93
+
+Cart 101:
+----------------------------------------
+----------------------------------------
+Total:                   $  0.00
